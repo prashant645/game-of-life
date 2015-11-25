@@ -24,6 +24,7 @@
 <!---hi--->
     <scm>
         <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
+        <!--new>
         <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
         <url>scm:git:git@github.com:${github.account}/game-of-life.git</url>
     </scm>
